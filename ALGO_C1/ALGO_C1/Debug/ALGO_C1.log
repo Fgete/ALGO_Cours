@@ -1,0 +1,13 @@
+﻿  CPoint.cpp
+  DPoint.cpp
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours\ALGO_C1\ALGO_C1\DPoint.cpp(26,14): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours\ALGO_C1\ALGO_C1\DPoint.cpp(27,12): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours\ALGO_C1\ALGO_C1\DPoint.cpp(29,31): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours\ALGO_C1\ALGO_C1\DPoint.cpp(30,31): warning C4244: '=' : conversion de 'double' en 'float', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours\ALGO_C1\ALGO_C1\DPoint.cpp(35,12): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours\ALGO_C1\ALGO_C1\DPoint.cpp(40,13): warning C4244: 'return' : conversion de 'double' en 'float', perte possible de données
+  main.cpp
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours\ALGO_C1\ALGO_C1\main.cpp(10,21): warning C4305: 'argument' : troncation de 'double' à 'float'
+C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours\ALGO_C1\ALGO_C1\main.cpp(13,21): warning C4305: 'argument' : troncation de 'double' à 'float'
+  Génération de code en cours...
+  ALGO_C1.vcxproj -> C:\Users\franc\Desktop\Cours\Algo\C++\ALGO_Cours\ALGO_C1\Debug\ALGO_C1.exe
