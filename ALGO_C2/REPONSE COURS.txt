@@ -1,0 +1,19 @@
+1 --- QUESTIONS COURS ---
+
+1.1 - Un constructeur sert à initialiser l'objet quand il est créé.
+	Le constructeur se lance dès l'instanciation de l'objet.
+
+1.2 - Un destructeur sert à détruire correctement un objet.
+	Il se lance lorsque l'on décide de détruire l'objet.
+	Il est indispensable quand on détruit un tableau.
+
+1.3 - Un constructeur est privé. Il peut y en avoir plusieurs permettant
+	de créer un objet via différentes syntaxes.
+
+1.4 - La surdéfinition décrit le fait de définir plusieurs fois une même fonction.
+	Cela permet d'utiliser cette fonction de différentes façons avec
+	différentes syntaxe ou différentes variables.
+
+1.5 - Public permet à l'utilisateur ainsi qu'aux autres fonctions d'avoir accès
+	à ce qui est public (variables, fonctions). Private rend inaccessible les
+	éléments associé (variables, fonctions).
